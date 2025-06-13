@@ -7,3 +7,5 @@ let a = 25;
 let b = 10;
 let sum = a+b;
 console.log(sum);
+
+let sohan = auther
